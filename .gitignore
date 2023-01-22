@@ -1,1 +1,4 @@
 .venv/vFlaskApi
+instance/*
+__pycache__/*
+venv/*
